@@ -1,4 +1,3 @@
-Practica 1 correspondiente a practicas
 /**************************************
 * NOMBRE: #Don Dimadon#
 * PRIMER APELLIDO: #Crustaceo#
