@@ -1,0 +1,19 @@
+Practica 1 correspondiente a practicas
+/**************************************
+* NOMBRE: #Don Dimadon#
+* PRIMER APELLIDO: #Crustaceo#
+* SEGUNDO APELLIDO: #Cascarudo#
+* DNI: #99999999F#
+* EMAIL: #DonDimadon@gmail.com#
+***************************************/
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  printf("Don Dimadon\n");
+  printf("Crustaceo\n");
+  printf("Cascarudo\n");
+  printf("99999999F\n");
+  printf("DonDimadon@gmail.com");
+  return 0;
+}
